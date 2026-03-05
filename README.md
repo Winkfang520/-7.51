@@ -21,4 +21,6 @@
 # 与Git/SVN无缝协作
 git push origin main    # 上传自动解密到服务器
 git pull origin main    # 下载自动加密到本地
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/935baa7f-cf52-48b6-829a-4d1509a68798" />
+
+![06b5f3b32409aaf1be762b0ad74eaf6f](https://github.com/user-attachments/assets/534d131b-e1c8-4b59-a392-c6d834f3e3ff)
+
